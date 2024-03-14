@@ -30,8 +30,8 @@ The original FFX project work was 2011-2013. It was embedded in Solido software 
 - Circuits-oriented description [Slides](http://www.trent.st/content/2011-CICC-FFX-slides.ppt) [Paper](http://www.trent.st/content/2011-CICC-FFX-paper.pdf)
 
 **Real-world test datasets:**
-- 6 Medium-dim. problems [ALL 36K](http://www.trent.st/content/med-dimensional_benchmark_datasets.zip)
-- 12 High-dim. problems [Part1 17M](http://www.trent.st/content/high-dimensional_benchmark_datasets_part1.tar.gz) [Part2 14M](http://www.trent.st/content/high-dimensional_benchmark_datasets_part2.tar.gz) [Part3 14M](http://www.trent.st/content/high-dimensional_benchmark_datasets_part3.tar.gz)
+- 6 Medium-dim. problems [ALL 36K](https://github.com/trentmc/ffx2011-benchmarks/blob/main/high-dimensional_benchmark_datasets_part1.tar.gz)
+- 12 High-dim. problems [Part1 17M](https://github.com/trentmc/ffx2011-benchmarks/blob/main/high-dimensional_benchmark_datasets_part1.tar.gz) [Part2 14M](https://github.com/trentmc/ffx2011-benchmarks/blob/main/high-dimensional_benchmark_datasets_part2.tar.gz) [Part3 14M](https://github.com/trentmc/ffx2011-benchmarks/blob/main/high-dimensional_benchmark_datasets_part3.tar.gz)
 
 **Representative papers:**
 
