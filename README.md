@@ -5,7 +5,7 @@
 This is the original FFX code, from 2011 (v1.3). 
 
 - [FFX.py](FFX.py) implements FFX algorithm, and [runffx.py](runffx.py) is a testing toolkit.  [License](resources/FFX_license.txt).
-- Dependencies - python (2.5, 2.6, and 2.7 work), numpy/skipy (0.9.0 works), scikits.learn (0.8 works)
+- Dependencies - python (2.5, 2.6, and 2.7 work), numpy/scipy (0.9.0 works), scikit-learn (0.8 works)
 
 (Alt open source code: [natekupp/ffx](https://github.com/natekupp/ffx). Derived from v1.3. 2012-2021. 🙏 Nathan Kupp.)
 
