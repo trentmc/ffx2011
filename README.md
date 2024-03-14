@@ -13,7 +13,7 @@ This is the original FFX code, from 2011 (v1.3).
 
 (From http://www.trent.st/ffx/)
 
-FFX is a technique for symbolic regression, to induce whitebox models given X/y training data. It does Fast Function Extraction. It is:
+FFX is a technique for symbolic regression, to induce whitebox models given X/y training data. It is:
 
 - Fast - runtime 5-60 seconds, depending on problem size (1GHz cpu)
 - Scalable - 1000 input variables, no problem!
