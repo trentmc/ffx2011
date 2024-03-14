@@ -9,7 +9,7 @@ This is the original FFX code, from 2011 (v1.3).
 
 (Alt open source code: [natekupp/ffx](https://github.com/natekupp/ffx). Derived from v1.3. 2012-2021. 🙏 Nathan Kupp.)
 
-## About FFX
+## About FFX: Fast Function Extraction
 
 (From http://www.trent.st/ffx/)
 
