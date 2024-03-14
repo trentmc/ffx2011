@@ -26,8 +26,8 @@ If you ignore the whitebox-model aspect, FFX can be viewed as a regression tool.
 The original FFX project work was 2011-2013. It was embedded in Solido software and since then,  used successfully on thousands of industrial problems.
 
 **Technical details:**
-- AI-oriented description [Slides](http://www.trent.st/content/2011-GPTP-FFX-slides.pdf) [Paper](http://www.trent.st/content/2011-GPTP-FFX-paper.pdf)
-- Circuits-oriented description [Slides](http://www.trent.st/content/2011-CICC-FFX-slides.ppt) [Paper](http://www.trent.st/content/2011-CICC-FFX-paper.pdf)
+- AI-oriented description [Slides](2011-GPTP-FFX-slides.pdf) [Paper](2011-GPTP-FFX-paper.pdf)
+- Circuits-oriented description [Slides](2011-CICC-FFX-slides.ppt) [Paper](2011-CICC-FFX-paper.pdf)
 
 **Real-world test datasets:**
 - 6 Medium-dim. problems [ALL 36K](https://github.com/trentmc/ffx2011-benchmarks/blob/main/high-dimensional_benchmark_datasets_part1.tar.gz)
