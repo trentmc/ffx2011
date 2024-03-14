@@ -27,7 +27,7 @@ The original FFX project work was 2011-2013. It was embedded in Solido software 
 
 **Technical details:**
 - AI-oriented description [Slides](2011-GPTP-FFX-slides.pdf) [Paper](2011-GPTP-FFX-paper.pdf)
-- Circuits-oriented description [Slides](2011-CICC-FFX-slides.ppt) [Paper](2011-CICC-FFX-paper.pdf)
+- Circuits-oriented description [Slides](2011-CICC-FFX-slides2.pdf) [Paper](2011-CICC-FFX-paper.pdf)
 
 **Real-world test datasets:**
 - 6 Medium-dim. problems [ALL 36K](https://github.com/trentmc/ffx2011-benchmarks/blob/main/high-dimensional_benchmark_datasets_part1.tar.gz)
